@@ -1,0 +1,30 @@
+.text{
+    margin-top: 45px;
+    line-height: 20px;
+}
+
+.text>h2{
+    font-size: 36px;
+    text-transform: uppercase;
+}
+
+.text>p{
+    margin-bottom: 50px;
+    font-weight:bold;
+}
+
+.icon{
+    color: #5dba2f;
+}
+
+.big_star{
+    font-size: 13px;
+}
+
+.star{
+    font-size: 11px;
+}
+
+.small_star{
+    font-size: 9px;
+}
